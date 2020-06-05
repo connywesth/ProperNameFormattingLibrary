@@ -45,6 +45,8 @@ Hope you enjoy the challange!
 
 I suggest using any of .NET Framework eller .NET Core.
 
+Please refer to the file "ProperNameFormattingLibrary_UnitTest1.cs" for exact requirements and testcases. I use the testfirst aproach, where i first define a failing test, and then start working methodically to solve every issue, until all tests passes.
+
 The winner of the challange gets respect, 
 honor and fame in the code monkey community!
 

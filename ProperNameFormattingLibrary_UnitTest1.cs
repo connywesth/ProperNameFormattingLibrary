@@ -26,27 +26,41 @@
 // the factory pattern in the book inspired med to 
 // create this challange for other code monkeys like myself.
 //
-// Jag gjorde ett exempel för formattering av 
-// personnamn och efter lite "lekande" med olika 
-// lösningar så tänkte jag att detta kanske kunde 
-// vara en lekfull och kul utmaning för andra Kodapor.
+// I made a sample project for properly formattning 
+// peoples names. After some time playing with this 
+// challange, I thought this could be an interesting 
+// challange to ither code monkeys like me.
 // 
-// Jag tillhandahåller en påbörjad lösning, men 
-// du får göra din lösning på ditt sätt, bara 
-// enhetstestaerna Test 211-Test 218 + proper 
-// casing går igenom felfritt.
+// Here I provide a start for a solution, that is 
+// not at all done yet. But it's a tedious tak so 
+// I give you some head start by providing what 
+// I achived so far.
+//
+// You can of cource make your own solution, but 
+// make sure all the tests "Test 211" - "Test 218"
+// are fullfilled, with all the proper casing included.
+//
+// Hope you enjoy the challange!
 // -------------------------------------
-// Användning .NET Framework eller .NET Core är valfritt.
+// I suggest using any of .NET Framework eller .NET Core.
 // -------------------------------------
-// Vinnaren får respekt, ära och berömmelse!
+// The winner of the challange gets respect, 
+// honor and fame in the code monkey community!
 // -------------------------------------
-// Använd valfri licensmodell. Projektet är en 
-// lekfull utmaning Kodapor emellan, inte kommerciellt.
+// use your favorite licensing model. The project 
+// is a playful enjoyable challange among other
+// dedicated code monkeys, NOT a commercial 
+// project of any kind, so dont expect to be 
+// rewarded financially..
 // -------------------------------------
-// Lösningen kan publiceras exempelvis på ditt 
-// GitHub-konto och länk i tråden på Kodapor, 
-// om admin tillåter det, annars kan du mejla 
-// mig en länk till ditt GitHub-projektet.
+// You can for instance publish the solution 
+// at GitHub and put a link in the discussion 
+// thread at the FB group "Kodapor", if the 
+// administrators allow it. Otherwise you can 
+// send med an email with your solution or 
+// link to your GitHub-project.
+//
+// Please have a happy coding day....
 // -------------------------------------
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using ProperNameFormattingLibrary;

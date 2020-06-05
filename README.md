@@ -1,7 +1,7 @@
 # ProperNameFormattingLibrary
 
 Kodapor (Code Monkeys, Swedish FaceBook Group), Friday challange "ProperNameFormattingLibrary" 2020-06-05 (ISO 8601-date format)
-Issues and suggestments for improvement is appreciated. Just add yourself as contributor 
+Issues and suggestions for improvement is appreciated. Just add yourself as contributor 
 and add the issue or mejl directly to me at uppdrag@connywesth.se
 
 Challange: Create a DLL component that manages all the testcases in the unit test.

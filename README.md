@@ -66,5 +66,5 @@ link to your GitHub-project.
 Please have a happy coding day....
 
 Regards,
-Conny Westh
+Conny Westh,
 Code Monkey

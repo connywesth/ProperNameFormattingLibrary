@@ -1,28 +1,30 @@
 // -------------------------------------
-// Kodapor, Fredagsutmaningen "ProperNameFormattingLibrary" 2020-06-05
-// Synpunkter och förbättringsförslag kan mejlas till uppdrag@connywesth.se
+// Kodapor (Code Monkeys, Swedish FaceBook Group), Friday challange "ProperNameFormattingLibrary" 2020-06-05 (ISO 8601-date format)
+// Issues and suggestments for improvement is appreciated. Just add yourself as contributor 
+// and add the issue or mejl directly to me at uppdrag@connywesth.se
 // -------------------------------------
-// Uppgift: Skapa en DLL-komponent som klarar samtliga av nedanstående testfall.
+// Challange: Create a DLL component that manages all the testcases in the unit test.
 // -------------------------------------
-// Förutsättningar: Testramverket MSTest har använts i 
-// Microsoft Visual Studio 2019 version 16.6.1 Community Edition.
+// Prerequsites: Test framework used is MSTest 
+// and the development environment beeing used is: 
+// Microsoft Visual Studio 2019 version 16.6.1 Community Edition. (latest update at 2020-06-05)
 // -------------------------------------
-// Använd C#, VB.NET, C++ eller annat programspråk som 
-// körs i ovanstående version av Visual Studio.
+// Please use C#, VB.NET, C++ or another programming language 
+// availible in the specified version of Visial Studio.
 // -------------------------------------
-// Skapa den mest eleganta Objektorienterade lösningen.
-// Inget "fusk" genom att kopiera vad någon annan gjort 
-// och publicerat. Det ska vara din egen lösning och kod.
+// Create the most elegant object oriented solution.
+// No "cheating" by using other peoples published 
+// work as your own. It has to be your own solution and code.
 // 
-// Lösningen ska även formattera till proper Casing. 
-// Så om man har testdata med fel casing så det 
-// justeras till "rätt" casing enligt de exempel 
-// som givits i dessa förutsättningar.
+// The solution should format the names to proper 
+// casing as specified in the test suite.
 // -------------------------------------
-// Jag hittade en svingammal bok om Design Patterns 
-// i VB.NET och VB6 från 2002 av James W. Cooper. 
-// Detta inspirerade mig att börja leka lite med 
-// några enkla designpatterns, som detta factory Pattern. 
+// I found a mighty old book in my bookshelf about 
+// design patterns in VB.NET and VB6 published 
+// in 2002  written by James W. Cooper.
+// By playing with those simple designpatterns like 
+// the factory pattern in the book inspired med to 
+// create this challange for other code monkeys like myself.
 //
 // Jag gjorde ett exempel för formattering av 
 // personnamn och efter lite "lekande" med olika 
